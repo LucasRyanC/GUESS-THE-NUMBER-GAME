@@ -1,1 +1,3 @@
-# projeto-guess-the-game
+Guess the Number Game Project.
+
+DEV PROJECT USING HTML, CSS AND JS TO CREATE A QUICK GUESS NUMBER GAME.
